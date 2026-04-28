@@ -189,7 +189,7 @@ export function Login() {
               </p>
               <div>
                 <h3>Teste</h3>
-                <p>Email: teste@tes.com</p>
+                <p>Email: teste@teste.com</p>
                 <p>Senha: 123456789 </p>
               </div>
             </form>
