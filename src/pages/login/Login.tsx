@@ -187,6 +187,11 @@ export function Login() {
                   Cadastre-se
                 </Link>
               </p>
+              <div>
+                <h3>Teste</h3>
+                <p>Email: teste@tes.com</p>
+                <p>Senha: 123456789 </p>
+              </div>
             </form>
           </CardContent>
         </Card>
